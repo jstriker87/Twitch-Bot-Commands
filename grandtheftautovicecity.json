@@ -27,7 +27,29 @@
       "reply": "My personal best is 59:53",
       "description": "What is my personal best ",
       "scope": "public"
-    }
+    },
+
+    {
+      "keyword": ["replay", "replays"],
+      "secondary": ["bot", "imbarticusbot","why","what"],
+      "reply": "In Vice City replays can be made during the game. In speedruns the main use of replays is that if you make a replay over a marker such as a gun, a rampage marker, or a clothes replay when you play that replay, you will interact with the object in the replay"
+      "description": "Explains how replays work",
+      "scope": "public"
+    },
+    {
+      "keyword": "platform",
+      "secondary": ["bot", "imbarticusbot","what"],
+      "reply": "Vice City is being run on PC",
+      "description": "What system is the game being run on",
+      "scope": "public"
+    },
+    {
+      "keyword": "japanese",
+      "secondary": ["bot", "imbarticusbot","why"],
+      "reply": "The game is being run using the Japanese version of the game, as it has differences in the game scripts. This means that you can instantly pass (or intapass) certain missions, which cant be done on other versions of Vice City",
+      "description": "What system is the game being run on",
+      "scope": "public"
+    },
   ]
 }
 
