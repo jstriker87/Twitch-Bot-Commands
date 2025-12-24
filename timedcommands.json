@@ -1,0 +1,14 @@
+{
+  "timed_commands": [
+    {
+      "keyword": "subscribe",
+      "reply": "Enjoying the stream. Dont forget to follow and subscribe!",
+      "interval": 15
+    },
+    {
+      "keyword": "commands",
+      "reply": "To check out the availible bot commands type '!commands' or 'bot commands'",
+      "interval": 15
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "commands": [
+    {
+      "keyword": "weather",
+      "secondary": ["what", "current"],
+      "reply": "The weather in London is currently sunny and 25 centigrade.",
+      "scope": "public"
+    },
+    {
+      "keyword": "joke",
+      "secondary": ["tell", "funny"],
+      "reply": [
+        "Why don’t skeletons fight each other? They don’t have the guts.",
+        "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field.",
+        "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+        "Why don't scientists trust atoms? Because they make up everything!"
+      ],
+      "scope": "public"
+    },
+
+    {
+      "keyword": "bot ",
+      "secondary": ["refresh"],
+      "reply": ["test", "test2"],
+      "scope": "mod"
+    },
+    {
+      "keyword": "time",
+      "secondary": ["what", "current"],
+      "reply": "The current time is 3:30 PM.",
+      "scope": "public"
+    }
+  ]
+}

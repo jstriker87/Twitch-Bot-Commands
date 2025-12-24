@@ -1,0 +1,33 @@
+{
+  "commands": [
+    {
+      "keyword": "ssu",
+      "secondary": ["bot", "imbarticusbot","what"],
+      "reply": "Script Stack Underflow (SSU) is glitch in speedrunning of GTA Vice City that allows users to jump to an abritrary location in the games mission scripts. No SSU is a categroty of speedrunning with allows for any other glitch exectp for SSU",
+      "description": "Explains SSU glitch",
+      "scope": "public"
+    },
+    {
+      "keyword": "sliding",
+      "secondary": ["bot", "imbarticusbot","what"],
+      "reply": "Sliding is a method in GTA Vice City to move faster than walking, but slower than runnning. It is carried out by interrupting your character Tommy's animiation of moving, by playing a replay. It can be done whilsit unarmed or with some weapons such as a chainsaw",
+      "description": "Explains how sliding works",
+      "scope": "public"
+    },
+    {
+      "keyword": "radio",
+      "secondary": ["bot", "imbarticusbot","why"],
+      "reply": "The radio is turned off as speedruns require recording, and this means that we can't have the radio on due to music copyright",
+      "description": "Explains how sliding works",
+      "scope": "public"
+    },
+    {
+      "keyword": "pb",
+      "secondary": ["bot", "imbarticusbot","what"],
+      "reply": "My personal best is 59:53",
+      "description": "What is my personal best ",
+      "scope": "public"
+    }
+  ]
+}
+
