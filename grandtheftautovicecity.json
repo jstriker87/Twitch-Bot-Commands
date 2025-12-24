@@ -30,7 +30,7 @@
     },
 
     {
-      "keyword": ["replay", "replays"],
+      "keyword": "replay",
       "secondary": ["bot", "imbarticusbot","why","what"],
       "reply": "In Vice City replays can be made during the game. In speedruns the main use of replays is that if you make a replay over a marker such as a gun, a rampage marker, or a clothes replay when you play that replay, you will interact with the object in the replay",
       "description": "Explains how replays work",
