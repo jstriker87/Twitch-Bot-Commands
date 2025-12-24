@@ -32,6 +32,7 @@
     {
       "keyword": "wr",
       "secondary": ["bot", "imbarticusbot","what"],
+      "func": "get_gta_vc_no_ssu_wr",
       "reply": "The current GTA Vice City Any% No SSU world record is 47:57 by Redopter. The leaderboard can be found at https://www.speedrun.com/gtavc?h=Any_No_SSU&x=nxd1rk8q",
       "description": "What is my personal best ",
       "scope": "public"
