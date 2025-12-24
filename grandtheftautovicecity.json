@@ -49,7 +49,7 @@
       "reply": "The game is being run using the Japanese version of the game, as it has differences in the game scripts. This means that you can instantly pass (or intapass) certain missions, which cant be done on other versions of Vice City",
       "description": "What system is the game being run on",
       "scope": "public"
-    },
+    }
   ]
 }
 
